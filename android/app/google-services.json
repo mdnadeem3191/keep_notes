@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323072265336",
+    "project_id": "notekeeper-34bbd",
+    "storage_bucket": "notekeeper-34bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323072265336:android:af690e2dd194f95e4d718d",
+        "android_client_info": {
+          "package_name": "com.example.highlark_keep_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323072265336-5uvtliu3tgobc88sq98bd8i5vt5u3bls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLUxfOG24r_1z1AoHmLVfLdZKDRb76As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323072265336-5uvtliu3tgobc88sq98bd8i5vt5u3bls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
